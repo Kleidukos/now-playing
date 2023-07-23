@@ -5,13 +5,13 @@ mainSections = ["a"]
 paginate = 16
 disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
-  description = "Collection of Handpicked Albums by Guérilla.Studio"
+  description = "Collection of Handpicked Albums by Hécate"
   [params.author]
-    name = "Guérilla.Studio"
-    url = "https://guerilla.studio"
-  [params.creator]
-    name = "Guérilla.Studio"
-    url = "https://guerilla.studio"
+    name = "Hécate Moonlight"
+    url = "https://glitchbra.in"
+  # [params.creator]
+  #   name = "Guérilla.Studio"
+  #   url = "https://guerilla.studio"
 
 [imaging]
 quality = 95
