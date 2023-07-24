@@ -9,9 +9,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.author]
     name = "Hécate Moonlight"
     url = "https://glitchbra.in"
-  # [params.creator]
-  #   name = "Guérilla.Studio"
-  #   url = "https://guerilla.studio"
+  [params.creator]
+    name = "Guérilla Studio"
+    url = "https://guerilla.studio"
 
 [imaging]
 quality = 95
